@@ -241,7 +241,8 @@ This boilerplate follows consistent naming conventions:
 | Inline Styles | `camelCase` | `{ fontSize: '16px' }` |
 | CSS Class Names | `kebab-case` | `btn-primary`, `form-input` |
 | React Components | `PascalCase` | `Button`, `FormInput` |
-| Page Folders | `kebab-case` | `forget-password`, `verify-otp` |
+| Folders | `camelCase` | `adminLayout`, `publicLayout` |
+| Pages Name | `kebab-case` | `forget-password`, `verify-otp` |
 
 ## 🔧 Configuration
 
